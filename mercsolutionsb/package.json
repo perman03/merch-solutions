@@ -1,0 +1,35 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js --exec",
+    "dev": "nodemon index.js --exec babel-node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.768.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-promise-router": "^3.0.3",
+    "jsonwebtoken": "^8.5.0",
+    "mongoose": "^5.4.10",
+    "mongoose-unique-validator": "^2.0.3",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.2",
+    "multer-gridfs-storage": "^4.2.0",
+    "multer-s3": "^2.9.0",
+    "nodemon": "^1.19.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
