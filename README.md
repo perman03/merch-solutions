@@ -8,11 +8,13 @@ npm install
 ### Compiles and hot-reloads for development
 ```
 npm run serve
+npm audit fix --force (recommended after install dependencies)
 ```
 
 ### Compiles and minifies for production
 ```
 npm run build
+npm run start (for local testing)
 ```
 
 ### Customize configuration
