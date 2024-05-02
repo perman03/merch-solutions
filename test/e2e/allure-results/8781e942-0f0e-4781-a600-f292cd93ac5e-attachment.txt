@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href=\"/Unete\"]\"}\n  (Session info: chrome=124.0.6367.63)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF6037E1502+60802]\n\t(No symbol) [0x00007FF60375AC02]\n\t(No symbol) [0x00007FF603617CE4]\n\t(No symbol) [0x00007FF603666D4D]\n\t(No symbol) [0x00007FF603666E1C]\n\t(No symbol) [0x00007FF6036ACE37]\n\t(No symbol) [0x00007FF60368ABBF]\n\t(No symbol) [0x00007FF6036AA224]\n\t(No symbol) [0x00007FF60368A923]\n\t(No symbol) [0x00007FF603658FEC]\n\t(No symbol) [0x00007FF603659C21]\n\tGetHandleVerifier [0x00007FF603AE411D+3217821]\n\tGetHandleVerifier [0x00007FF603B260B7+3488055]\n\tGetHandleVerifier [0x00007FF603B1F03F+3459263]\n\tGetHandleVerifier [0x00007FF60389B846+823494]\n\t(No symbol) [0x00007FF603765F9F]\n\t(No symbol) [0x00007FF603760EC4]\n\t(No symbol) [0x00007FF603761052]\n\t(No symbol) [0x00007FF6037518A4]\n\tBaseThreadInitThunk [0x00007FFBBE8D53E0+16]\n\tRtlUserThreadStart [0x00007FFBBF9E485B+43]\n"
+}
